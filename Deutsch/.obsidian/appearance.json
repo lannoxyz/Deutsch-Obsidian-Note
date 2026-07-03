@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": "#f55cbd",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 18,
+  "nativeMenus": true
+}

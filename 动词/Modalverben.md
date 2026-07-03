@@ -5,7 +5,7 @@
 | ----------------------- |
 | [[können]]              |
 | [[müssen]]              |
-| [[dürfen]]                  |
+| [[dürfen]]              |
 | wollen                  |
 | [[sollen]]              |
 | mögen                   |

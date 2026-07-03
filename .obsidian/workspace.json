@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/动词/Hilfsverben.md",
+                "file": "动词/Modalverben.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hilfsverben 的大纲"
+              "title": "Modalverben 的大纲"
             }
           }
         ]
@@ -205,12 +205,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
+      "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "graph:查看关系图谱": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7c0207f9d07e1c0",
+  "active": "2dced8afc1464db1",
   "lastOpenFiles": [
     "动词/Modalverben.md",
     "动词/Hilfsverben.md",

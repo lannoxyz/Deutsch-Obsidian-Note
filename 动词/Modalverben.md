@@ -6,6 +6,6 @@
 | [[können]]              |
 | [[müssen]]              |
 | [[dürfen]]              |
-| wollen                  |
+| [[wollen]]              |
 | [[sollen]]              |
-| mögen                   |
+| [[mögen]]               |

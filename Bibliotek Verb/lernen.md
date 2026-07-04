@@ -1,4 +1,4 @@
-> learn / 学
+> learn
 > -
 
 | [[Präsens]] | ich   | du     | er/sie/es | ihr   | wir    | sie/Sie |
@@ -9,5 +9,5 @@
 | -------------- | --- | --- | --------- | --- | --- | ------- |
 |                |     |     |           |     |     |         |
 
-| [[Perfekt]] | haben gelernt |
-| ----------- | ------------- |
+| [[Partizip-II]] / [[Perfekt]] | haben gelernt |
+| ----------------------------- | ------------- |

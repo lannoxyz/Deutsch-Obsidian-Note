@@ -1,4 +1,4 @@
-> have / 有
+> have
 > [[Hilfsverben]]
 
 | [[Präsens]] | ich  | du   | er/sie/es | ihr  | wir   | sie/Sie |
@@ -9,5 +9,5 @@
 | -------------- | --- | --- | --------- | --- | --- | ------- |
 |                |     |     |           |     |     |         |
 
-| [[Perfekt]] | haben - gehabt |
-| ----------- | -------------- |
+| [[Partizip-II]] / [[Perfekt]] | haben - gehabt |
+| ----------------------------- | -------------- |

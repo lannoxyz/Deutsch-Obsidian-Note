@@ -1,2 +1,8 @@
 # <font color="#00b050">Das Deutsch</font>
-german / 德语
+> *def: german language
+
+|               | singular |     | plural  |     |
+| ------------- | -------- | --- | ------- | --- |
+| [[Nominativ]] | Deutsch  |     | Deutsch |     |
+| [[Akkusativ]] |          |     |         |     |
+| [[Dativ]]     |          |     |         |     |

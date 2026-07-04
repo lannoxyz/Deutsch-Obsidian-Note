@@ -1,4 +1,4 @@
-> come / 来
+> come
 > -
 
 | [[Präsens]] | ich   | du     | er/sie/es | ihr   | wir    | sie/Sie |
@@ -9,5 +9,5 @@
 | -------------- | --- | --- | --------- | --- | --- | ------- |
 |                |     |     |           |     |     |         |
 
-| [[Perfekt]] | haben gekommen |
-| ----------- | -------------- |
+| [[Partizip-II]] / [[Perfekt]] | haben gekommen |
+| ----------------------------- | -------------- |

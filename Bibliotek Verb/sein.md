@@ -1,4 +1,4 @@
-> is / 是
+> is
 > [[Hilfsverben]]
 
 | [[Präsens]] | ich | du   | er/sie/es | ihr  | wir  | sie/Sie |
@@ -9,5 +9,5 @@
 | -------------- | --- | ----- | --------- | ---- | ----- | ------- |
 |                | war | warst | war       | wart | waren | waren   |
 
-| [[Perfekt]] | sind - gewesen |
-| ----------- | -------------- |
+| [[Partizip-II]] / [[Perfekt]] | sind - gewesen |
+| ----------------------------- | -------------- |

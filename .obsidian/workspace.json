@@ -11,10 +11,24 @@
             "id": "dd8e41ee149417cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bibliotek Nomen/Angestellte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Angestellte"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bibliotek Nomen/Angestellte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Angestellte 的反向链接列表"
             }
           },
           {
@@ -194,6 +209,11 @@
   },
   "active": "dd8e41ee149417cc",
   "lastOpenFiles": [
+    "Bibliotek Nomen/Aktivität.md",
+    "Bibliotek Nomen/Adresse.md",
+    "Bibliotek Nomen/人物名词/Altenpfleger.md",
+    "Bibliotek Nomen/Toilette.md",
+    "README.md",
     "Bibliotek Verb/abfahren.md",
     "Bibliotek Verb/zumachen.md",
     "动词/Hilfsverben.md",
@@ -208,18 +228,13 @@
     "Bibliotek Nomen/Termin.md",
     "Bibliotek Nomen/Software.md",
     "Bibliotek Nomen/Rechnung.md",
-    "Bibliotek Nomen/人物名词/Altenpfleger.md",
     "Bibliotek Nomen/人物名词/Hausmann.md",
     "Bibliotek Nomen/人物名词/Zusteller.md",
     "Bibliotek Nomen/人物名词/Cousin.md",
     "Bibliotek Nomen/人物名词/Bäcker.md",
     "Bibliotek Nomen/人物名词/Fotograf.md",
-    "Bibliotek Nomen/Aktivität.md",
     "Bibliotek Nomen/Backshop.md",
     "Bibliotek Nomen/Bäckerei.md",
-    "Bibliotek Nomen/Betrieb.md",
-    "Bibliotek Nomen/Mann.md",
-    "Bibliotek Nomen/Frau.md",
     "Bibliotek Nomen/外来词",
     "Bibliotek Nomen/人物名词",
     "Template"

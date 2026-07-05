@@ -1,5 +1,5 @@
-# <font color="#f954ff">Die ABC</font>
-> *def: 123
+# <font color="#f954ff">Die Aktivität </font>
+> *def: activity
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |

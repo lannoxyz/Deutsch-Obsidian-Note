@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fa999c8d627803e",
+        "id": "0a4c8ff47caa95e3",
         "type": "tabs",
         "children": [
           {
-            "id": "44c3e43b497a8e1d",
+            "id": "dd8e41ee149417cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +93,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bibliotek Nomen/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -184,44 +185,43 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "graph:查看关系图谱": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44c3e43b497a8e1d",
+  "active": "dd8e41ee149417cc",
   "lastOpenFiles": [
-    "Bibliotek Nomen/Deutsch.md",
-    "Bibliotek Nomen/Klavier.md",
-    "Bibliotek Nomen/Stadt.md",
-    "Bibliotek Nomen/Speisekarte.md",
-    "Bibliotek Nomen/Gemüse.md",
-    "Bibliotek Nomen/Fisch.md",
-    "Bibliotek Nomen/Kartoffel.md",
-    "Bibliotek Nomen/Spaghetti.md",
-    "Bibliotek Nomen/Suppe.md",
-    "Bibliotek Nomen/Olive.md",
-    "Bibliotek Nomen/Steak.md",
-    "Bibliotek Nomen/Hänchen.md",
-    "Bibliotek Nomen/Kuchen.md",
-    "Bibliotek Nomen/Wurst.md",
-    "Bibliotek Nomen/Baguette.md",
-    "Bibliotek Nomen/Hamburger.md",
-    "Bibliotek Nomen/Pizza.md",
-    "Bibliotek Nomen/Kalender.md",
+    "Bibliotek Verb/abfahren.md",
+    "Bibliotek Verb/zumachen.md",
+    "动词/Hilfsverben.md",
+    "动词/Trennbare-Verben.md",
+    "动词/Unteilbare-Verben.md",
+    "动词/Modalverben.md",
+    "Bibliotek Nomen/Arena.md",
+    "Bibliotek Nomen/Torte.md",
+    "Bibliotek Nomen/Kurs.md",
+    "Bibliotek Nomen/Beruf.md",
+    "Bibliotek Nomen/Haar.md",
+    "Bibliotek Nomen/Termin.md",
+    "Bibliotek Nomen/Software.md",
+    "Bibliotek Nomen/Rechnung.md",
+    "Bibliotek Nomen/人物名词/Altenpfleger.md",
+    "Bibliotek Nomen/人物名词/Hausmann.md",
+    "Bibliotek Nomen/人物名词/Zusteller.md",
+    "Bibliotek Nomen/人物名词/Cousin.md",
+    "Bibliotek Nomen/人物名词/Bäcker.md",
+    "Bibliotek Nomen/人物名词/Fotograf.md",
     "Bibliotek Nomen/Aktivität.md",
-    "Bibliotek Nomen/Fleisch.md",
-    "Bibliotek Nomen/Käse.md",
-    "Bibliotek Nomen/Schnitzel.md",
-    "Bibliotek Nomen/Reis.md",
-    "Bibliotek Nomen/Salat.md",
-    "Bibliotek Nomen/Gast.md",
-    "Bibliotek Nomen/Zucker.md",
+    "Bibliotek Nomen/Backshop.md",
+    "Bibliotek Nomen/Bäckerei.md",
+    "Bibliotek Nomen/Betrieb.md",
+    "Bibliotek Nomen/Mann.md",
+    "Bibliotek Nomen/Frau.md",
+    "Bibliotek Nomen/外来词",
+    "Bibliotek Nomen/人物名词",
     "Template"
   ]
 }

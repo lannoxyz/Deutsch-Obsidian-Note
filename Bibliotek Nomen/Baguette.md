@@ -1,5 +1,5 @@
-# <font color="#00b050">Das ABC</font>
-> *def: 123
+# <font color="#00b050">Das Baguette</font>
+> *def: french stick
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |

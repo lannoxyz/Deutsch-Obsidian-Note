@@ -1,4 +1,4 @@
-> -
+> work
 > -
 
 | [[Präsens]] | ich | du  | er/sie/es | ihr | wir | sie/Sie |

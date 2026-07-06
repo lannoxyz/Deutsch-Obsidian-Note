@@ -1,4 +1,4 @@
-> to become / getting / will
+> to become, getting, will
 > [[Hilfsverben]]
 
 | [[Präsens]] | ich | du  | er/sie/es | ihr | wir | sie/Sie |

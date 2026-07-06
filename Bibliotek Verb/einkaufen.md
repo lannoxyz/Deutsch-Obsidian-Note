@@ -1,4 +1,4 @@
-> -
+> buy, purchase, shop
 > -
 
 | [[Präsens]] | ich | du  | er/sie/es | ihr | wir | sie/Sie |

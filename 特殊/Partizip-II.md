@@ -1,6 +1,8 @@
-过去分词
+过去分词，注意变音
 
-# schwache Verben
+|     |     |
+| --- | --- |
+|     |     |
 
 | ge...(e)t        | ...ge...(e)t         | ...(e)t                                     |
 | :--------------- | :------------------- | :------------------------------------------ |
@@ -11,17 +13,11 @@
 | haben gewohnt    | haben kennengelernt  | haben repariert                             |
 | haben gearbeitet | haben zugemacht      | haben korrigiert                            |
 
-# starke Verben
-
-| ge...                       | ge... +变音                 |     |
-| --------------------------- | ------------------------- | --- |
-|                             | [[gehen]] - sein gegangen     |     |
-| backen - haben gebacken     | essen - haben gegessen    |     |
-| schlafen - haben geschlafen | trinken - haben getrunken |     |
-|                             |                           |     |
-
-# gemischte Verben
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| ge...en                                                    | ...ge...en                                                    |     |
+| ---------------------------------------------------------- | ------------------------------------------------------------- | --- |
+|                                                            |                                                               |     |
+| haben gesehen                                              | ist hingefallen                                               |     |
+| haben geschlafen                                           | ist aufgest<font color="#de7802">and</font>en - [[aufstehen]] |     |
+| haben ge<font color="#de7802">g</font>essen - [[essen]]    |                                                               |     |
+| ist ge<font color="#de7802">gang</font>en - [[gehen]]      |                                                               |     |
+| haben getr<font color="#de7802">u</font>nken - [[trinken]] |                                                               |     |

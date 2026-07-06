@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd8e41ee149417cc",
+            "id": "ab03b1d99ea62894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliotek Nomen/Angestellte.md",
+                "file": "Bibliotek Verb/sprechen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sprechen"
+            }
+          },
+          {
+            "id": "77490c6a27d94118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特殊/Fragewörter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angestellte"
+              "title": "Fragewörter"
+            }
+          },
+          {
+            "id": "b41ca5339ee276f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特殊/Imperativ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Imperativ"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +100,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -104,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliotek Nomen/Angestellte.md",
+                "file": "特殊/Imperativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Angestellte 的反向链接列表"
+              "title": "Imperativ 的反向链接列表"
             }
           },
           {
@@ -207,34 +256,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd8e41ee149417cc",
+  "active": "b41ca5339ee276f2",
   "lastOpenFiles": [
-    "Bibliotek Nomen/Aktivität.md",
-    "Bibliotek Nomen/Adresse.md",
-    "Bibliotek Nomen/人物名词/Altenpfleger.md",
-    "Bibliotek Nomen/Toilette.md",
-    "README.md",
-    "Bibliotek Verb/abfahren.md",
-    "Bibliotek Verb/zumachen.md",
-    "动词/Hilfsverben.md",
-    "动词/Trennbare-Verben.md",
-    "动词/Unteilbare-Verben.md",
-    "动词/Modalverben.md",
-    "Bibliotek Nomen/Arena.md",
-    "Bibliotek Nomen/Torte.md",
-    "Bibliotek Nomen/Kurs.md",
-    "Bibliotek Nomen/Beruf.md",
-    "Bibliotek Nomen/Haar.md",
-    "Bibliotek Nomen/Termin.md",
-    "Bibliotek Nomen/Software.md",
-    "Bibliotek Nomen/Rechnung.md",
-    "Bibliotek Nomen/人物名词/Hausmann.md",
-    "Bibliotek Nomen/人物名词/Zusteller.md",
-    "Bibliotek Nomen/人物名词/Cousin.md",
-    "Bibliotek Nomen/人物名词/Bäcker.md",
-    "Bibliotek Nomen/人物名词/Fotograf.md",
-    "Bibliotek Nomen/Backshop.md",
-    "Bibliotek Nomen/Bäckerei.md",
+    "特殊/Fragewörter.md",
+    "特殊/Imperativ.md",
+    "Bibliotek Verb/wiederholen.md",
+    "Bibliotek Verb/werden.md",
+    "Bibliotek Verb/waschen.md",
+    "Bibliotek Verb/wehtun.md",
+    "Bibliotek Verb/warten.md",
+    "Bibliotek Verb/wandern.md",
+    "Bibliotek Verb/verstehen.md",
+    "Bibliotek Verb/verkaufen.md",
+    "Bibliotek Verb/umsteigen.md",
+    "Bibliotek Verb/trinken.md",
+    "Bibliotek Verb/treffen.md",
+    "Bibliotek Verb/telefonieren.md",
+    "Bibliotek Verb/tanzen.md",
+    "Bibliotek Verb/suchen.md",
+    "Bibliotek Verb/studieren.md",
+    "Bibliotek Verb/stattfinden.md",
+    "Bibliotek Verb/sprechen.md",
+    "Bibliotek Verb/spielen.md",
+    "Bibliotek Verb/spazieren.md",
+    "Bibliotek Verb/sollen.md",
+    "Bibliotek Verb/singen.md",
+    "Bibliotek Verb/sein.md",
+    "Bibliotek Verb/sehen.md",
+    "Bibliotek Verb/schwimmen.md",
     "Bibliotek Nomen/外来词",
     "Bibliotek Nomen/人物名词",
     "Template"

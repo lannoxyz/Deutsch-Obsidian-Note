@@ -1,4 +1,4 @@
-> -
+> watch TV
 > -
 
 | [[Präsens]] | ich | du  | er/sie/es | ihr | wir | sie/Sie |

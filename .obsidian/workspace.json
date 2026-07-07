@@ -80,84 +80,12 @@
             }
           },
           {
-            "id": "ea591cc2b6fa025a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c4a8237518c44a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibliotek Nomen/Kleid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kleid"
-            }
-          },
-          {
-            "id": "b597e49c0509144c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibliotek Nomen/Jeans.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jeans"
-            }
-          },
-          {
             "id": "2555ee7677157e8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliotek Nomen/Mantel.md",
+                "file": "Template/名词模版der.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mantel"
+              "title": "名词模版der"
             }
           },
           {
@@ -321,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Template/名词模版der.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "名词模版der 的反向链接列表"
             }
           },
           {
@@ -424,8 +352,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea591cc2b6fa025a",
+  "active": "2555ee7677157e8e",
   "lastOpenFiles": [
+    "Bibliotek Nomen/Mantel.md",
+    "Bibliotek Nomen/Jeans.md",
+    "Bibliotek Nomen/Kleid.md",
+    "README.md",
     "Bibliotek Nomen/Adresse.md",
     "特殊/Partizip-II.md",
     "特殊/Trennbare-Vorsilbe.md",
@@ -440,9 +372,6 @@
     "Bibliotek Nomen/Jacke.md",
     "Bibliotek Nomen/Stiefel.md",
     "Bibliotek Nomen/Schal.md",
-    "Bibliotek Nomen/Mantel.md",
-    "Bibliotek Nomen/Jeans.md",
-    "Bibliotek Nomen/Kleid.md",
     "动词/Unteilbare-Verben.md",
     "Bibliotek Nomen/Krawatte.md",
     "Bibliotek Nomen/Pullover.md",
@@ -451,7 +380,6 @@
     "Bibliotek Nomen/Anzug.md",
     "Bibliotek Nomen/Hose.md",
     "Bibliotek Nomen/Lederschuh.md",
-    "Bibliotek Nomen/T-Shirt.md",
     "Bibliotek Nomen/外来词",
     "Bibliotek Nomen/人物名词",
     "Template"

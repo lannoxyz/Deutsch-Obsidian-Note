@@ -1,5 +1,5 @@
 # <font color="#00b050">Das ABC</font>
-> *def: picture, image
+> *def: t-shirt
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |

@@ -1,5 +1,5 @@
-# <font color="#00b050">Das ABC</font>
-> *def: picture, image
+# <font color="#f954ff">Die ABC</font>
+> *def: sandals
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |

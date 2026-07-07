@@ -1,4 +1,4 @@
-> allow to
+> finish, done
 > -
 
 | [[Präsens]] | ich | du  | er/sie/es | ihr | wir | sie/Sie |
@@ -9,5 +9,5 @@
 | -------------- | --- | --- | --------- | --- | --- | ------- |
 |                |     |     |           |     |     |         |
 
-| [[Partizip-II]] / [[Perfekt]] |     |
-| ----------------------------- | --- |
+| [[Partizip-II]] / [[Perfekt]] | haben geschafft |
+| ----------------------------- | --------------- |

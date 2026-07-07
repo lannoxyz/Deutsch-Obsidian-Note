@@ -1,5 +1,5 @@
-# <font color="#00b050">Das ABC</font>
-> *def: picture, image
+# <font color="#00b0f0">Der ABC</font>
+> *def: rain
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |

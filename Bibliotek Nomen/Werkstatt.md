@@ -1,5 +1,5 @@
 # <font color="#f954ff">Die ABC</font>
-> *def: 123
+> *def: workshop
 
 |               | singular |     | plural |     |
 | ------------- | -------- | --- | ------ | --- |
